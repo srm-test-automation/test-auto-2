@@ -1,4 +1,4 @@
-# Sample Vulnerable Node.js Repositor
+# Sample Vulnerable Node.js Reposito
 
 This is a sample Node.js repository created for testing purposes. It includes dependencies with known security vulnerabilities and some code that may trigger CodeQL alerts.
 
